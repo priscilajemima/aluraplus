@@ -87,6 +87,9 @@ body {
     color: var(--cinza-secundario);
 }
 
+.secundario__descricao {
+    padding: 1em;
+}
 .secundario__botao {
     display: inline-block;
     margin-top: 1em;
